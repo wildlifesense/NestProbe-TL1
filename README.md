@@ -10,7 +10,7 @@ The main components in the TL1 are:
 
 |Microcontroller|ATmega328PB|
 |---------------|-----------|
-| Type          | Model     |
+| Temperature sensor          | MAX30205     |
 
 Microcontroller:    ATmega328PB
 Temperature sensor: 
