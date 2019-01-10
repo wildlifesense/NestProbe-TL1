@@ -13,10 +13,10 @@ The main components in the TL1 are:
 | Temperature sensor | MAX30205    |
 | EEPROM Memory      | AT25DN512C  |
 | Crystal oscillator | ECS-.327-7-34B-C-TR (32.768kHz) |
+| Battery type       | CR2032      |
 
 Plus one SMD 0402 LED and a small number of pull-up resistors and decoupling capacitors.
 
-crystal for the real-time counter.
 
 It is powered by a CR2032 coin-cell battery and uses an 
 
