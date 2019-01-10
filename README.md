@@ -8,6 +8,7 @@ Development has been partly documented at [hackaday.io](https://hackaday.io/proj
 
 The main components in the TL1 are:
 
+| Type          | Model     |
 |---------------|-----------|
 |Microcontroller|ATmega328PB|
 
