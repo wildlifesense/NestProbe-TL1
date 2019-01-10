@@ -7,6 +7,8 @@ Some aspects and decisions during development have been documented at [hackaday.
 
 The main components in the TL1 are:
 
+|
+|:-------------------|:------------|
 | Microcontroller    | ATmega328PB |
 | Temperature sensor | MAX30205    |
 | EEPROM Memory      | AT25DN512C  |
