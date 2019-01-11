@@ -17,14 +17,9 @@ The main components in the TL1 are:
 
 Plus one SMD 0402 LED and a small number of pull-up resistors and decoupling capacitors.
 
-
-It is powered by a CR2032 coin-cell battery and uses an 
-
-Details of the WSTL18 can be found at
-https://hackaday.io/project/27560-low-costpowersize-temperature-logger
-
-Copyright (C) 2017 Nikos Vallianos
-
-The WSTL18 firmware and Eagle files are released under the GNU General Public License version 3
-(See COPYING for details).
+The WSTL18 firmware and Eagle files are released under the GNU General Public
+License version 3. This roughly means that you can use these files and designs,
+manufacture the TL1 or derivatives and even sell them but you always have to
+make the original source code or derivatives available under the same license.
+See COPYING for details. 
 
