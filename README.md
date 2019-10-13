@@ -1,5 +1,6 @@
 # NestProbe TL1
 
+I've used the TL1 reliably for over a year, but have also stared developing the TL2, which uses the Si7051 temperature sensor and the ATtiny816 MCU.
 The NestProbe TL1 is a low cost, high accuracy, long-life temperature logger
 developed at Wildlife Sense for sea turtle egg incubation research. This repository
 
